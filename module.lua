@@ -1,5 +1,5 @@
 local module = {
-  module:Test = function()
+  Test = function()
     print("test module")
   end
 }
